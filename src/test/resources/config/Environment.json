@@ -1,0 +1,6 @@
+{
+	"prod": {
+		"region": "prod",
+		"url": "https://www.webstaurantstore.com/"
+	}
+}
